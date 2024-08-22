@@ -1,7 +1,3 @@
 # README #
 
-Table of contents:
-1. example.txt
-
-
-Updated 
+Update from a remote repository (https://github.com/masyago/my-first-repository/)
