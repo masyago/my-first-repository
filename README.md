@@ -1,5 +1,4 @@
 # README #
-# Learning Git
 
-Important steps for git workflow:
-
+Table of contents:
+1. example.txt
